@@ -1,0 +1,9 @@
+LINK address (Goerli): 0x07C725d58437504CA5f814AE406e70E21C5e8e9e
+
+aLINK address (Goerli): 0x6A639d29454287B3cBB632Aa9f93bfB89E3fd18f
+
+Deployed contract (Goerli): 0x8Fb13b297F3dAb7579ACC863Dd1dFEE2cEFbb412
+
+
+
+
